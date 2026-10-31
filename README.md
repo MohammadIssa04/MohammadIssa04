@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mohammad Issa
 
-<!--
-**MohammadIssa04/MohammadIssa04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building things: Android apps, a self-hosted smart home.
 
-Here are some ideas to get you started:
+### What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AAIdrive**: Android Auto features for BMW iDrive (fork).
+
+**tv-home**: a custom Android TV home screen.
+
+**Issa Music**: my own music app.
+
+### Home lab
+
+I run my own home lab and smart home.
+
+### Tech
+
+Kotlin, Java, Home Assistant, Docker.
