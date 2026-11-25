@@ -53,7 +53,7 @@ One box under the desk runs almost everything at home, about 20 services, each i
 | 🤖 AI | Local text-to-speech, an AI agent that helps run the server |
 | 📚 Offline | Wikipedia offline with Kiwix (English and Swedish) |
 
-Nothing is open to the internet: I reach it all from outside over a private VPN. Backups run every night, with an encrypted copy off-site.
+No ports are forwarded on the router: I reach it from outside over a private VPN. Backups run every night, with an encrypted copy off-site.
 
 ## 💡 How I like to build
 
