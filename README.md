@@ -28,7 +28,32 @@
 
 ## 🏠 Home lab
 
-I run my own home server on Proxmox: media streaming, my own music server, backups, a smart home on Home Assistant and my own push notifications, all self-hosted.
+One box under the desk runs almost everything at home, about 20 services, each in its own container.
+
+**🖥️ Hardware**
+
+| Part | Spec |
+|---|---|
+| Hypervisor | Proxmox VE 9 |
+| CPU | AMD Ryzen 5 3600 (6 cores / 12 threads) |
+| RAM | 32 GB |
+| GPU | NVIDIA GTX 1660 Ti (video transcoding and AI voice) |
+| Storage | SSD for containers + a 10 TB disk for media and backups |
+| Store | A Raspberry Pi 4 in my dad's grocery store |
+
+**📦 What I host**
+
+| Area | Services |
+|---|---|
+| 🎬 Media | Jellyfin with hardware transcoding, the *arr stack, my own music server for Issa Music |
+| 🏠 Smart home | Home Assistant, n8n automations |
+| ☁️ Cloud and files | Nextcloud, Syncthing |
+| 🔐 Security | Vaultwarden, Pocket ID (passkey sign-in), CrowdSec, AdGuard Home, a honeypot |
+| 📊 Monitoring | Uptime Kuma, Beszel, a Homepage dashboard, my own ntfy push server, self-healing scripts |
+| 🤖 AI | Local text-to-speech, an AI agent that helps run the server |
+| 📚 Offline | Wikipedia offline with Kiwix (English and Swedish) |
+
+Nothing is open to the internet: I reach it all from outside over a private VPN. Backups run every night, with an encrypted copy off-site.
 
 ## 💡 How I like to build
 
