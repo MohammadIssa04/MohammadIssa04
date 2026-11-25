@@ -24,11 +24,12 @@
 |---|---|---|
 | 🌸 | **[smart-store-screen](https://github.com/MohammadIssa04/smart-store-screen)** | AI-made video ads, store music and price labels for my dad's grocery store. One phone app, one Raspberry Pi, running in a real store every day. |
 | 🎵 | **[issa-music](https://github.com/MohammadIssa04/issa-music)** | My own music app for the phone, my BMW's iDrive screen and the TV, streaming from my own server. |
+| 🏠 | **[homelab](https://github.com/MohammadIssa04/homelab)** | My self-hosted home server on Proxmox: about 20 services for media, the smart home, files, security and monitoring. |
 | 📺 | **[tv-home](https://github.com/MohammadIssa04/tv-home)** | A custom Android TV home screen with a clock, weather, a now-playing widget and synced lyrics. |
 
 ## 🏠 Home lab
 
-One box under the desk runs almost everything at home, about 20 services, each in its own container.
+One box under the desk runs almost everything at home, about 20 services, each in its own container. The full write-up is in **[homelab](https://github.com/MohammadIssa04/homelab)**.
 
 **🖥️ Hardware**
 
