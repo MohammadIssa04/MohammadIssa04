@@ -55,9 +55,3 @@ One box under the desk runs almost everything at home, about 20 services, each i
 | Offline | Wikipedia offline with Kiwix (English and Swedish) |
 
 No ports are forwarded on the router: I reach it from outside over a private VPN. Backups run every night, with an encrypted copy off-site.
-
-## How I like to build
-
-- **Built for the real user.** If my dad has to call me, the app isn't done.
-- **Measure first.** Small hardware goes far when you optimise what actually matters.
-- **Never lose anything.** Backups, health checks and "archive, don't delete".
